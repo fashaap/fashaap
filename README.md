@@ -7,7 +7,7 @@ Front End Developer
 Saya bersekolah di sma pgri cicalengka dengan jurusan IPA
 
 * 🌍  I'm based in Bandung
-* 🖥️  See my portfolio at [Website](http://fashaazhiporto.vercel.app/)
+* 🖥️  See my portfolio at [Website](https://fashaapnext.vercel.app/)
 * ✉️  You can contact me at [personalprojectfasha@gmail.com](mailto:personalprojectfasha@gmail.com)
 * 🚀  I'm currently working on [website osis](http://osis.smapgriclk.sch.id/)
 * 🧠  I'm learning next js

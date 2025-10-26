@@ -1,9 +1,14 @@
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fashaap&layout=compact)
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fashaap&theme=github_dark)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fashaap&theme=github_dark)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fashaap&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fashaap&theme=github_dark)
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fashaap&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fashaap&show_icons=true&theme=github_dark" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fashaap&layout=compact&theme=github_dark" height="180em" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fashaap&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fashaap&theme=github-dark" />
+</p>
